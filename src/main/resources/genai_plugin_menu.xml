@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+  JMeter menu extension descriptor.
+  Adds "GenAI Correlation Plugin" under Tools menu.
+  Loaded by JMeter's menu system at startup.
+-->
+<menuItems>
+    <menuItem>
+        <type>action</type>
+        <label>GenAI Correlation Plugin</label>
+        <action>genai_plugin_open</action>
+        <toolTip>From Recording to Production-Ready Script — AI-powered HAR correlation</toolTip>
+        <menuKey>tools</menuKey>
+        <shortcut>ctrl shift G</shortcut>
+    </menuItem>
+</menuItems>
